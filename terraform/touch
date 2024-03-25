@@ -1,0 +1,7 @@
+provider "scalr" {
+  api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1c2VyIiwianRpIjoiYXQtdjBvYTZsNmIzbHFoc2o1cGoifQ.30s6GfpV9MIUYqHfgmETR0sC_CNNbXxC5Q9PfH34dxA
+"
+  api_url = "https://api.scalr.com"
+  username = "test-scalr-task-denys"
+  password = "ryF8-lc}44qh&gjg:"
+}
